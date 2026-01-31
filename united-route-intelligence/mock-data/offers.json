@@ -1,0 +1,452 @@
+{
+  "offers": [
+    {
+      "offerId": "OFFER-UA-001",
+      "origin": "SFO",
+      "destination": "ORD",
+      "date": "2026-02-15",
+      "totalPrice": 189.50,
+      "currency": "USD",
+      "carrierCode": "UA",
+      "durationMinutes": 255,
+      "segments": [
+        {
+          "segmentId": "SEG-1",
+          "carrierCode": "UA",
+          "flightNumber": "1001",
+          "origin": "SFO",
+          "destination": "ORD",
+          "departureTime": "06:00",
+          "arrivalTime": "12:15",
+          "aircraft": "Boeing 737-900",
+          "cabin": "Economy"
+        }
+      ]
+    },
+    {
+      "offerId": "OFFER-UA-002",
+      "origin": "SFO",
+      "destination": "ORD",
+      "date": "2026-02-15",
+      "totalPrice": 165.00,
+      "currency": "USD",
+      "carrierCode": "UA",
+      "durationMinutes": 255,
+      "segments": [
+        {
+          "segmentId": "SEG-2",
+          "carrierCode": "UA",
+          "flightNumber": "1423",
+          "origin": "SFO",
+          "destination": "ORD",
+          "departureTime": "08:30",
+          "arrivalTime": "14:45",
+          "aircraft": "Boeing 787-9",
+          "cabin": "Economy"
+        }
+      ]
+    },
+    {
+      "offerId": "OFFER-UA-003",
+      "origin": "SFO",
+      "destination": "ORD",
+      "date": "2026-02-15",
+      "totalPrice": 175.00,
+      "currency": "USD",
+      "carrierCode": "UA",
+      "durationMinutes": 255,
+      "segments": [
+        {
+          "segmentId": "SEG-3",
+          "carrierCode": "UA",
+          "flightNumber": "892",
+          "origin": "SFO",
+          "destination": "ORD",
+          "departureTime": "11:00",
+          "arrivalTime": "17:15",
+          "aircraft": "Airbus A320",
+          "cabin": "Economy"
+        }
+      ]
+    },
+    {
+      "offerId": "OFFER-UA-004",
+      "origin": "SFO",
+      "destination": "ORD",
+      "date": "2026-02-15",
+      "totalPrice": 199.99,
+      "currency": "USD",
+      "carrierCode": "UA",
+      "durationMinutes": 255,
+      "segments": [
+        {
+          "segmentId": "SEG-4",
+          "carrierCode": "UA",
+          "flightNumber": "2156",
+          "origin": "SFO",
+          "destination": "ORD",
+          "departureTime": "14:30",
+          "arrivalTime": "20:45",
+          "aircraft": "Boeing 737-800",
+          "cabin": "Economy"
+        }
+      ]
+    },
+    {
+      "offerId": "OFFER-UA-005",
+      "origin": "SFO",
+      "destination": "ORD",
+      "date": "2026-02-15",
+      "totalPrice": 145.50,
+      "currency": "USD",
+      "carrierCode": "UA",
+      "durationMinutes": 255,
+      "segments": [
+        {
+          "segmentId": "SEG-5",
+          "carrierCode": "UA",
+          "flightNumber": "671",
+          "origin": "SFO",
+          "destination": "ORD",
+          "departureTime": "18:00",
+          "arrivalTime": "00:15",
+          "aircraft": "Boeing 777-200",
+          "cabin": "Economy"
+        }
+      ]
+    },
+    {
+      "offerId": "OFFER-UA-006",
+      "origin": "SFO",
+      "destination": "ORD",
+      "date": "2026-02-15",
+      "totalPrice": 425.00,
+      "currency": "USD",
+      "carrierCode": "UA",
+      "durationMinutes": 255,
+      "segments": [
+        {
+          "segmentId": "SEG-6",
+          "carrierCode": "UA",
+          "flightNumber": "1001",
+          "origin": "SFO",
+          "destination": "ORD",
+          "departureTime": "06:00",
+          "arrivalTime": "12:15",
+          "aircraft": "Boeing 737-900",
+          "cabin": "Business"
+        }
+      ]
+    },
+    {
+      "offerId": "OFFER-AA-001",
+      "origin": "SFO",
+      "destination": "ORD",
+      "date": "2026-02-15",
+      "totalPrice": 155.00,
+      "currency": "USD",
+      "carrierCode": "AA",
+      "durationMinutes": 255,
+      "segments": [
+        {
+          "segmentId": "SEG-AA-1",
+          "carrierCode": "AA",
+          "flightNumber": "2134",
+          "origin": "SFO",
+          "destination": "ORD",
+          "departureTime": "09:15",
+          "arrivalTime": "15:30",
+          "aircraft": "Boeing 737-800",
+          "cabin": "Economy"
+        }
+      ]
+    },
+    {
+      "offerId": "OFFER-UA-CON-001",
+      "origin": "SFO",
+      "destination": "ORD",
+      "date": "2026-02-15",
+      "totalPrice": 135.00,
+      "currency": "USD",
+      "carrierCode": "UA",
+      "durationMinutes": 380,
+      "segments": [
+        {
+          "segmentId": "SEG-CON-1",
+          "carrierCode": "UA",
+          "flightNumber": "305",
+          "origin": "SFO",
+          "destination": "DEN",
+          "departureTime": "07:15",
+          "arrivalTime": "10:45",
+          "aircraft": "Boeing 737-900",
+          "cabin": "Economy"
+        },
+        {
+          "segmentId": "SEG-CON-2",
+          "carrierCode": "UA",
+          "flightNumber": "1829",
+          "origin": "DEN",
+          "destination": "ORD",
+          "departureTime": "12:00",
+          "arrivalTime": "15:35",
+          "aircraft": "Airbus A320",
+          "cabin": "Economy"
+        }
+      ]
+    },
+    {
+      "offerId": "OFFER-UA-DEN-001",
+      "origin": "SFO",
+      "destination": "DEN",
+      "date": "2026-02-15",
+      "totalPrice": 89.00,
+      "currency": "USD",
+      "carrierCode": "UA",
+      "durationMinutes": 150,
+      "segments": [
+        {
+          "segmentId": "SEG-DEN-1",
+          "carrierCode": "UA",
+          "flightNumber": "305",
+          "origin": "SFO",
+          "destination": "DEN",
+          "departureTime": "07:15",
+          "arrivalTime": "10:45",
+          "aircraft": "Boeing 737-900",
+          "cabin": "Economy"
+        }
+      ]
+    },
+    {
+      "offerId": "OFFER-UA-DEN-002",
+      "origin": "SFO",
+      "destination": "DEN",
+      "date": "2026-02-15",
+      "totalPrice": 95.50,
+      "currency": "USD",
+      "carrierCode": "UA",
+      "durationMinutes": 150,
+      "segments": [
+        {
+          "segmentId": "SEG-DEN-2",
+          "carrierCode": "UA",
+          "flightNumber": "1547",
+          "origin": "SFO",
+          "destination": "DEN",
+          "departureTime": "10:00",
+          "arrivalTime": "13:30",
+          "aircraft": "Airbus A320",
+          "cabin": "Economy"
+        }
+      ]
+    },
+    {
+      "offerId": "OFFER-UA-DEN-003",
+      "origin": "SFO",
+      "destination": "DEN",
+      "date": "2026-02-15",
+      "totalPrice": 105.00,
+      "currency": "USD",
+      "carrierCode": "UA",
+      "durationMinutes": 150,
+      "segments": [
+        {
+          "segmentId": "SEG-DEN-3",
+          "carrierCode": "UA",
+          "flightNumber": "789",
+          "origin": "SFO",
+          "destination": "DEN",
+          "departureTime": "15:30",
+          "arrivalTime": "19:00",
+          "aircraft": "Boeing 737-800",
+          "cabin": "Economy"
+        }
+      ]
+    },
+    {
+      "offerId": "OFFER-UA-IAH-001",
+      "origin": "SFO",
+      "destination": "IAH",
+      "date": "2026-02-15",
+      "totalPrice": 215.00,
+      "currency": "USD",
+      "carrierCode": "UA",
+      "durationMinutes": 225,
+      "segments": [
+        {
+          "segmentId": "SEG-IAH-1",
+          "carrierCode": "UA",
+          "flightNumber": "2301",
+          "origin": "SFO",
+          "destination": "IAH",
+          "departureTime": "08:00",
+          "arrivalTime": "13:45",
+          "aircraft": "Boeing 787-9",
+          "cabin": "Economy"
+        }
+      ]
+    },
+    {
+      "offerId": "OFFER-UA-IAH-002",
+      "origin": "SFO",
+      "destination": "IAH",
+      "date": "2026-02-15",
+      "totalPrice": 189.00,
+      "currency": "USD",
+      "carrierCode": "UA",
+      "durationMinutes": 225,
+      "segments": [
+        {
+          "segmentId": "SEG-IAH-2",
+          "carrierCode": "UA",
+          "flightNumber": "1678",
+          "origin": "SFO",
+          "destination": "IAH",
+          "departureTime": "12:45",
+          "arrivalTime": "18:30",
+          "aircraft": "Boeing 737-900",
+          "cabin": "Economy"
+        }
+      ]
+    },
+    {
+      "offerId": "OFFER-UA-IAH-003",
+      "origin": "SFO",
+      "destination": "IAH",
+      "date": "2026-02-15",
+      "totalPrice": 175.50,
+      "currency": "USD",
+      "carrierCode": "UA",
+      "durationMinutes": 225,
+      "segments": [
+        {
+          "segmentId": "SEG-IAH-3",
+          "carrierCode": "UA",
+          "flightNumber": "456",
+          "origin": "SFO",
+          "destination": "IAH",
+          "departureTime": "17:15",
+          "arrivalTime": "23:00",
+          "aircraft": "Airbus A320",
+          "cabin": "Economy"
+        }
+      ]
+    },
+    {
+      "offerId": "OFFER-UA-EWR-001",
+      "origin": "SFO",
+      "destination": "EWR",
+      "date": "2026-02-15",
+      "totalPrice": 289.00,
+      "currency": "USD",
+      "carrierCode": "UA",
+      "durationMinutes": 330,
+      "segments": [
+        {
+          "segmentId": "SEG-EWR-1",
+          "carrierCode": "UA",
+          "flightNumber": "2034",
+          "origin": "SFO",
+          "destination": "EWR",
+          "departureTime": "06:30",
+          "arrivalTime": "15:00",
+          "aircraft": "Boeing 777-300ER",
+          "cabin": "Economy"
+        }
+      ]
+    },
+    {
+      "offerId": "OFFER-UA-EWR-002",
+      "origin": "SFO",
+      "destination": "EWR",
+      "date": "2026-02-15",
+      "totalPrice": 325.50,
+      "currency": "USD",
+      "carrierCode": "UA",
+      "durationMinutes": 330,
+      "segments": [
+        {
+          "segmentId": "SEG-EWR-2",
+          "carrierCode": "UA",
+          "flightNumber": "1919",
+          "origin": "SFO",
+          "destination": "EWR",
+          "departureTime": "09:00",
+          "arrivalTime": "17:30",
+          "aircraft": "Boeing 787-10",
+          "cabin": "Economy"
+        }
+      ]
+    },
+    {
+      "offerId": "OFFER-UA-EWR-003",
+      "origin": "SFO",
+      "destination": "EWR",
+      "date": "2026-02-15",
+      "totalPrice": 259.99,
+      "currency": "USD",
+      "carrierCode": "UA",
+      "durationMinutes": 330,
+      "segments": [
+        {
+          "segmentId": "SEG-EWR-3",
+          "carrierCode": "UA",
+          "flightNumber": "1532",
+          "origin": "SFO",
+          "destination": "EWR",
+          "departureTime": "13:45",
+          "arrivalTime": "22:15",
+          "aircraft": "Boeing 777-200",
+          "cabin": "Economy"
+        }
+      ]
+    },
+    {
+      "offerId": "OFFER-UA-JFK-001",
+      "origin": "SFO",
+      "destination": "JFK",
+      "date": "2026-02-15",
+      "totalPrice": 249.00,
+      "currency": "USD",
+      "carrierCode": "UA",
+      "durationMinutes": 315,
+      "segments": [
+        {
+          "segmentId": "SEG-JFK-1",
+          "carrierCode": "UA",
+          "flightNumber": "234",
+          "origin": "SFO",
+          "destination": "JFK",
+          "departureTime": "22:30",
+          "arrivalTime": "06:45",
+          "aircraft": "Boeing 787-9",
+          "cabin": "Economy"
+        }
+      ]
+    },
+    {
+      "offerId": "OFFER-UA-BOS-001",
+      "origin": "SFO",
+      "destination": "BOS",
+      "date": "2026-02-15",
+      "totalPrice": 229.00,
+      "currency": "USD",
+      "carrierCode": "UA",
+      "durationMinutes": 315,
+      "segments": [
+        {
+          "segmentId": "SEG-BOS-1",
+          "carrierCode": "UA",
+          "flightNumber": "1985",
+          "origin": "SFO",
+          "destination": "BOS",
+          "departureTime": "23:15",
+          "arrivalTime": "07:30",
+          "aircraft": "Boeing 777-200",
+          "cabin": "Economy"
+        }
+      ]
+    }
+  ]
+}
